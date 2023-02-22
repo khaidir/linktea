@@ -4,17 +4,16 @@ Terdapat kebutuhan membuat product replika dari linktree. Adapun requirement dar
 1. Terdapat halaman yang menampilkan beberapa tombol link yang dapat diklik (minimal 3 tombol link)
 2. Terdapat halaman analytics untuk menampilkan statistik tombol mana yang paling banyak diklik berupa tabel
 
-A. Buat rencana pengembangan untuk produk yang mau dibuat berupa 
+A. Buat rencana pengembangan untuk produk yang mau dibuat berupa
 - Pemilihan Tech stack lalu jelaskan pertimbangannya
 - Detailkan technical tasks and description yang bisa dieksekusi oleh anggota tim (BE dan FE) dan flow pengerjaannya.
 
 B. Development
-Karena satu dan lain hal, ternyata tim sedang banyak task lainnya, sedangkan ini sangat urgent harus ada di akhir sprint ini untuk ditampilkan ke investor. Jadi silahkan coba buat sendiri dengan versi "Paling" sederhana untuk menjawab 2 poin kebutuhan product di atas dengan menggunakan react.js (FE) dan expressjs (BE) lalu deploy. 
+Karena satu dan lain hal, ternyata tim sedang banyak task lainnya, sedangkan ini sangat urgent harus ada di akhir sprint ini untuk ditampilkan ke investor. Jadi silahkan coba buat sendiri dengan versi "Paling" sederhana untuk menjawab 2 poin kebutuhan product di atas dengan menggunakan react.js (FE) dan expressjs (BE) lalu deploy.
 
 Catatan:
-- Silahkan asumsikan saja informasi yang kurang jelas. 
+- Silahkan asumsikan saja informasi yang kurang jelas.
 - Untuk development yang mudah dan simple bisa gunakan firebase hosting dan firebase function (tapi tidak wajib)
-- Jika untuk development dirasa terlalu berat untuk dieksekusi sendiri, silahkan berikan penjelasan berupa alasan yang logis. 
+- Jika untuk development dirasa terlalu berat untuk dieksekusi sendiri, silahkan berikan penjelasan berupa alasan yang logis.
 - Jika jadi nya dieksekusi silahkan berikan link deployment nya dan share repository backend dan/atau frontend
 
-Deadline: 22 Feb 2023 pukul 23.59
